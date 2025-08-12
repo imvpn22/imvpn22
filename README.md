@@ -1,5 +1,3 @@
-# 👋 Hey there, I’m Vipin Yadav  
-
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,22 +6,36 @@
 </p>
 
 <!-- ASCII Name -->
+| | | () | |
+| | | | _ __ | | ___
+| | | | | '_ | |/ _ \
+| || | | |) | | /
+_/|_| ./||___|
+| |
+||
 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipin-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
+</p>
 
 ---
 
 ## 🧑‍💻 About Me  
-I’m a **Bangalore-based Software Engineer** passionate about solving complex problems with clean, maintainable code.  
-I thrive in crafting efficient solutions — from **complex data filtering** in TypeScript to **custom React hooks** and **Dockerized Node apps**.  
-When I’m not coding, you’ll likely find me:  
-- 📷 Capturing travel, lifestyle, and food moments for [`vipingraphy`](https://instagram.com/vipingraphy)  
-- 🎶 Jamming at **Soul Jams** events (2+ years and counting)  
-- ✈️ Discovering beaches, mountains, and hidden gems  
+I’m a **Bangalore-based Software Engineer** passionate about crafting **clean, maintainable, and efficient solutions**.  
+I enjoy solving tricky problems — from **complex data filtering** to **UI transformations** and **custom React hooks**.  
+
+Outside work, I’m:  
+- 📷 Capturing stories for [`vipingraphy`](https://instagram.com/vipingraphy)  
+- 🎶 Attending music festivals & Soul Jams (2+ years!)  
+- ✈️ Traveling & exploring beaches, mountains, and hidden gems  
 - ☕ Watching sunsets with chai in hand  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Skills  
 
 **Languages & Runtime:**  
 `TypeScript` `JavaScript (ES6+)` `Node.js`  
@@ -35,22 +47,38 @@ When I’m not coding, you’ll likely find me:
 `Docker` `Jenkins` `Git`  
 
 **Specialties:**  
-- Complex data filtering/mapping logic  
-- Code optimization for readability & maintainability  
-- UI transformations & Canvas drawing with CSS rotations  
+- Complex **data filtering/mapping** logic  
+- Code **optimization** for readability & maintainability  
+- UI transformations & **Canvas drawing** with CSS rotations  
 
 ---
 
-## 📌 Current Projects  
-- **`usePolling` Hook:** With exponential backoff, poll limits, and success callbacks  
-- **Signature Canvas Component:** Correctly handles rotated coordinate systems in React  
-- **Freight & Logistics Blog:** 2,500-word analysis on charges, trends, and policies in India  
+## 📌 Highlighted Projects  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=usePolling&theme=tokyonight)](https://github.com/vipin-yadav/usePolling)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=signature-canvas&theme=tokyonight)](https://github.com/vipin-yadav/signature-canvas)  
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vipin-yadav&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipin-yadav&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-yadav&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipin-yadav&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-yadav&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📈 Activity Graph  
+[![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vipin-yadav&theme=react-dark)](https://github.com/vipin-yadav)
 
 ---
 
@@ -61,4 +89,4 @@ When I’m not coding, you’ll likely find me:
 
 ---
 
-> 💡 *Clean code, clean sunsets, and a hot cup of chai — my non-negotiables.*  
+> 💡 *Clean code, clean sunsets, and a hot cup of chai — my non-negotiables.*
