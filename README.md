@@ -1,9 +1,14 @@
 # 👋 Hey there, I’m Vipin Yadav  
 
-![Profile views](https://komarev.com/ghpvc/?username=vipin-yadav&label=Profile%20Views&color=0e75b6&style=flat)  
-[![Instagram](https://img.shields.io/badge/Instagram-%40vipingraphy-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vipingraphy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipin%20Yadav-blue?style=flat&logo=linkedin)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=flat)](#)  
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1abc9c&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vipin+Yadav;Software+Engineer+%7C+Traveler+%7C+Photographer;Clean+Code+%26+Chai+Lover;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ASCII Name -->
+
 
 ---
 
