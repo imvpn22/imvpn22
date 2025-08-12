@@ -35,9 +35,9 @@ Outside work, I’m:
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack  
 
-**Languages & Runtime:**  
+**Languages:**  
 `TypeScript` `JavaScript (ES6+)` `Node.js`  
 
 **Frontend:**  
@@ -55,13 +55,12 @@ Outside work, I’m:
 
 ## 📌 Highlighted Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=usePolling&theme=tokyonight)](https://github.com/vipin-yadav/usePolling)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=signature-canvas&theme=tokyonight)](https://github.com/vipin-yadav/signature-canvas)  
+[![usePolling Hook](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=usePolling&theme=tokyonight)](https://github.com/vipin-yadav/usePolling)  
+[![Signature Canvas Component](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=signature-canvas&theme=tokyonight)](https://github.com/vipin-yadav/signature-canvas)  
 
 ---
 
 ## 🏆 GitHub Trophies  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vipin-yadav&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
