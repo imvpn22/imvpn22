@@ -1,81 +1,72 @@
-<!-- Typing SVG Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1abc9c&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vipin+Yadav;Software+Engineer+%7C+Traveler+%7C+Photographer;Clean+Code+%26+Chai+Lover;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</p>
+# 💻 Vipin Yadav — Frontend Engineer
+
+> Passionate about building engaging user experiences and solving problems with elegant, scalable code.
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Vipin%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+## 👋 About Me
+I'm a **Frontend Engineer** specializing in **ReactJS**, currently exploring **optimization techniques** and **micro-frontends**.  
+I thrive on creating **fun side projects** (recently built a **Whiteboard app**), and I’m working towards contributing to **open source**, **leading a team**, and **building my own SaaS product**.
+
+When I’m not coding, you’ll probably find me:
+- 📸 Behind a camera, capturing sunsets  
+- ✈️ Traveling to explore new places  
+- 🌱 Gardening to unwind  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipin-yadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
-</p>
+## 🛠 Tech Stack
+**Languages & Frameworks:**
+- HTML5 • CSS3 • JavaScript (ES6+) • TypeScript
+- ReactJS • TailwindCSS
+
+**Tools & Platforms:**
+- Git • GitHub • Vercel • Docker  
+- Jira • Figma • Postman
 
 ---
 
-## 🧑‍💻 About Me  
-I’m a **Bangalore-based Software Engineer** passionate about crafting **clean, maintainable, and efficient solutions**.  
-I enjoy solving tricky problems — from **complex data filtering** to **UI transformations** and **custom React hooks**.  
-
-Outside work, I’m:  
-- 📷 Capturing stories for [`vipingraphy`](https://instagram.com/vipingraphy)  
-- 🎶 Attending music festivals & Soul Jams (2+ years!)  
-- ✈️ Traveling & exploring beaches, mountains, and hidden gems  
-- ☕ Watching sunsets with chai in hand  
+## 📚 Currently Learning
+- **Micro-Frontends Architecture** for scalable large-scale apps  
+- **Advanced React Performance Optimization**  
+- **Canvas API** for creative, interactive web experiences  
+- Exploring **Web Accessibility (a11y)** best practices  
 
 ---
 
-## 🛠️ Tech Stack  
-
-**Languages:**  
-`TypeScript` `JavaScript (ES6+)` `Node.js`  
-
-**Frontend:**  
-`React.js` `Tailwind CSS` `Custom Hooks`  
-
-**Backend & DevOps:**  
-`Docker` `Jenkins` `Git`  
-
-**Specialties:**  
-- Complex **data filtering/mapping** logic  
-- Code **optimization** for readability & maintainability  
-- UI transformations & **Canvas drawing** with CSS rotations  
+## 🤓 Fun Facts
+- I can spend hours perfecting a UI animation  
+- Love experimenting with quirky side projects  
+- Enjoy late-night coding with a cup of tea ☕  
+- Once built a personal tool just to avoid repetitive copy-paste tasks  
 
 ---
 
-## 📌 Highlighted Projects  
-
-[![usePolling Hook](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=usePolling&theme=tokyonight)](https://github.com/vipin-yadav/usePolling)  
-[![Signature Canvas Component](https://github-readme-stats.vercel.app/api/pin/?username=vipin-yadav&repo=signature-canvas&theme=tokyonight)](https://github.com/vipin-yadav/signature-canvas)  
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipin-yadav&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
-</p>
+## 🚀 Current Focus
+- **Frontend Optimization** — performance tuning, code splitting, lazy loading  
+- **Micro-Frontends** — scalable, modular architecture for large apps  
+- **Open Source** — sharing knowledge and collaborating with the dev community  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipin-yadav&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-yadav&layout=compact&theme=tokyonight" height="165" />
-</p>
+## 📌 Projects
+- **Whiteboard App** — Collaborative drawing tool built with React & Canvas API  
+- More coming soon...
 
 ---
 
-## 📈 Activity Graph  
-[![Vipin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vipin-yadav&theme=react-dark)](https://github.com/vipin-yadav)
+## 📊 GitHub Stats
+![Vipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipinyadav&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav&layout=compact&theme=react)  
+![GitHub Streak](https://streak-stats.demolab.com?user=vipinyadav&theme=react)
 
 ---
 
-## 🌐 Connect With Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%40vipingraphy-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vipingraphy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipin%20Yadav-blue?style=flat&logo=linkedin)](#)  
-📧 **Email:** *[Your Email Here]*  
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipinyadav)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinyadav)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipingraphy)  
 
 ---
 
-> 💡 *Clean code, clean sunsets, and a hot cup of chai — my non-negotiables.*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)
