@@ -56,16 +56,16 @@ When I’m not coding, you’ll probably find me:
 ---
 
 ## 📊 GitHub Stats
-![Vipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipinyadav&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadav&layout=compact&theme=react)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vipinyadav&theme=react)
+![Vipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imvpn22&show_icons=true&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imvpn22&layout=compact&theme=react)  
+![GitHub Streak](https://streak-stats.demolab.com?user=imvpn22&theme=react)
 
 ---
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipinyadav)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinyadav)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipingraphy)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/imvpn22)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imvpn22)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithvipin)  
 
 ---
 
